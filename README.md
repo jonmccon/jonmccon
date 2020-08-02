@@ -1,8 +1,8 @@
 ### I smell code and photo chemicals
 
-- Film photography 📷  BeardsEyeView
-- Seattle Design company phonebook 📖  SeattleCreative.Directory 
-- Design, ux/ui ✍️  workbynight
+- Film photography 📷   [BeardsEyeView](https://www.beardseyeview.com)
+- Seattle Design company phonebook 📖   [SeattleCreative.Directory](https://seattlecreative.directory)
+- Design, ux/ui ✍️   [workbynight](https://www.workbynight.com)
 
 <!--
 **jonmccon/jonmccon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
