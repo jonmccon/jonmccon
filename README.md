@@ -1,8 +1,9 @@
 ### I smell code and photo chemicals
 
-- Film photography 📷   [BeardsEyeView](https://www.beardseyeview.com)
+- Generative Plotting studies 🖨️ [The Plot Quickens](https://www.instagram.com/theplotquickens/)
 - Seattle Design Community phonebook 📖   [SeattleCreative.Directory](https://seattlecreative.directory)
-- Design, ux/ui ✍️   [workbynight](https://www.jonmccon.com)
+- Design, ux/ui ✍️   [jonmccon](https://www.jonmccon.com)
+- Film photography 📷   [BeardsEyeView](https://www.beardseyeview.com)
 
 <!--
 **jonmccon/jonmccon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
